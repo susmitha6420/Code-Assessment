@@ -1,0 +1,19 @@
+
+create a function findFirstAndLast with args array and element x 
+
+  find the length of the array store in variable n
+  initilize the values for first and last variables
+  
+  for i to i < n
+    if (x != arr[i]
+         continue;
+     if first == -1
+        first =i
+     last =i
+     
+     if first is equal to -1
+       retrun first and last
+      else 
+       return [-1,-1]
+
+   in the main method call the findFirstAndLast method
